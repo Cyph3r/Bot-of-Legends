@@ -1,0 +1,21 @@
+How To Save a plugin:
+
+-- Browse to the file you wish to download.
+-- Right click on "Raw".
+-- Choose "Save link as..." from the popup menu.
+
+The file should already have the correct name, but make sure to save the file as:
+
+SidasAutoCarryPlugin - CHAMPION NAME.lua
+
+Example:
+
+SidasAutoCarryPlugin - Zyra.lua
+
+Remember not to save it as:
+
+SidasAutoCarryPlugin - Zyra.lua.lua
+
+or
+
+SidasAutoCarryPlugin - Zyra.lua.txt

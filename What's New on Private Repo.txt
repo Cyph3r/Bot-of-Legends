@@ -1,0 +1,68 @@
+This private repo is brand new, so expect good things coming soon.
+
+New scripts are being updated with Klokje's new PROdiction. It's better than VIP Prediction.
+
+Currently Available:
+
+What's New:
+		12/29/2013:
+			Plugins:
+				Heimerdonger
+			Updates:
+				Jinx
+				Corki
+		12/28/2013:
+			Standalones (from collaberation with Skeem)
+				Aatrox - The Darkin Blade
+				Katarina - The Sinister Blade
+				Kha'Zix - The Voidreaver
+				Swain - The Master Tactician
+				Xerath - The Magus Ascendant
+			Updates:
+				Annie
+		12/17/2013:
+			LeBlanc - The Deceiver
+		11/25/2013:
+			Big Graves update.
+		10/31/2013:
+			Kha'Zix Plugin
+		10/29/2013:
+			Jarvan IV: The Exemplar of Demacia
+		10/26/2013:
+			Xerath
+			Maikai
+			Annie
+			Fizz
+		10/24/2013:
+			Brand
+		10/18/2013:
+			Viktor
+		10/17/2013:
+			Lux
+		10/14/2013:
+			Ahri with PROdiction by Chancey.
+		10/13/2013:
+			Blitzcrank by pqmailer, modded and rewritten by Kain.
+		10/10/2013:
+			Jinx: Live version with PROdiction.
+		10/9/2013:
+			Gragas: Beta first version with PROdiction. Still working on this script.
+		10/7/2013:
+			Jinx: Beta version, PBE playable with PROdiction.
+		10/3/2013:
+			Zyra: Rise of the Thorns with PROdiction and logic improvements.
+			Ziggs with PROdiction.
+
+		9/27/2013:
+			Caitlyn with PROdiction and improvements.
+			
+		9/23/2013:
+			Lulu Kain Mod.
+
+		Previous:
+			Thresh: Chain Warden with PROdiction.
+			Corki with PROdiction and logic improvements.
+			Kog'Maw with PROdiction.
+			Ezreal with PROdiction.
+
+-- Kain
