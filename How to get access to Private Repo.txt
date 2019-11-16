@@ -1,12 +1,6 @@
 Q: What do you have on Kain's Private Repo?
 A: Unreleased scripts, new versions of scripts, and scripts that I may never release for whatever reason.
 
-Q: How do I get access to Kain's Private Repo?
-A: Send a $25 donation via the Donate button in my signature on the forum. Send is as a gift on PayPal and include your BoL username in the comments. Then PM me your BitBucket username. I'll add you to the repo when I'm online next.
-
-Q: I already donated at least $25. How do I get access?
-A: PM me.
-
 Q: What's on your Private Repo?
 A: See https://bitbucket.org/KainBoL/bol/src/master/What%27s%20New%20on%20Private%20Repo.txt
 
